@@ -18,9 +18,17 @@ git log
 ```
 Сокращенный журнал всех изменений
 ```sh
-git log --oneline
+git log --onelinegit stastu
 ```
 Открыть определенный commit
 ```sh
 git checkout 
 ```
+Удаление веток
+```
+git branch -d
+```
+
+Изображение дерева
+```
+git log -graph
