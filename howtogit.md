@@ -20,3 +20,7 @@ git log
 ```sh
 git log --oneline
 ```
+Открыть определенный commit
+```sh
+git checkout 
+```
