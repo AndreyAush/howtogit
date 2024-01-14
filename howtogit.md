@@ -27,7 +27,7 @@ git checkout
 
 
 Выход 
-```sh
+```
 q
 
 ```
