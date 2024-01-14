@@ -24,3 +24,6 @@ git log --oneline
 ```sh
 git checkout 
 ```
+Удаление веток
+```
+git branch -d
