@@ -24,3 +24,7 @@ git log --oneline
 ```sh
 git checkout 
 ```
+Соединение веток 
+```
+git merge
+
