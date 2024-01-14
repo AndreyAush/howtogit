@@ -24,7 +24,6 @@ git log --onelinegit stastu
 ```sh
 git checkout 
 ```
-<<<<<<< HEAD
 
 
 Выход 
@@ -43,9 +42,7 @@ git branch -d
 Изображение дерева
 ```
 git log -graph
-=======
 Соединение веток 
 ```
 git merge
 
->>>>>>> branch1
