@@ -25,6 +25,7 @@ git log --oneline
 git checkout 
 ```
 
-выход
+
+Выход 
 ```
-EXIT
+Q
