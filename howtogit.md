@@ -8,5 +8,8 @@ git init
 ```sh
 git add
 ```
-
+Фиксация событий c описанием
+```sh
+git commit -m ""
+```
 
